@@ -1,3 +1,3 @@
-public class ForRename {
+public class ForRenameOld {
     public void reName(){}
 }
