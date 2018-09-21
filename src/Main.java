@@ -8,6 +8,6 @@ public class Main {
         System.out.println("MQiao push to Master on163020180918");
         System.out.println("20180918mywork");
         System.out.println("yourwork");
-        System.out.println("mywork");
+        System.out.println("mywork123");
     }
 }
